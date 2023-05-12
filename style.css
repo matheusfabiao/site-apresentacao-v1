@@ -16,3 +16,38 @@ a{
     color: white;
     text-decoration: none;
 }
+
+header img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: 5px solid #00bfff;
+}
+
+.imagem{
+    text-align: center;
+}
+
+h1{
+    color: #00bfff;
+}
+
+footer img{
+    width: 50px;
+    height: 50px;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+
+}
+
+footer a{
+    margin: 20px;
+    text-align: center;
+}
+
+footer p{
+    margin-top: 2px;
+}
