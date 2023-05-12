@@ -21,7 +21,7 @@ header img{
     height: 150px;
     width: 150px;
     border-radius: 50%;
-    border: 5px solid #00bfff;
+    border: 5px solid #80d8ff;
 }
 
 .imagem{
@@ -29,7 +29,7 @@ header img{
 }
 
 h1{
-    color: #00bfff;
+    color: #80d8ff;
 }
 
 footer img{
@@ -50,4 +50,12 @@ footer a{
 
 footer p{
     margin-top: 2px;
+}
+
+.container{
+    padding: 0px 50px;
+}
+
+nav a:hover{
+    color: #80d8ff;
 }
